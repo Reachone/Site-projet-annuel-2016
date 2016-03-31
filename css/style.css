@@ -1,0 +1,100 @@
+@font-face
+{
+	font-family: champagne;
+	src: url(../fonts/Champagne_Bold.ttf);
+
+	font-family: linux;
+	src: url(../fonts/LinLibertine_ita.ttf);
+}
+
+.logo_tni
+{
+	margin: 10px;
+	margin-top: -15px;
+	height: 50px;
+	width: 50px;
+}
+
+#title
+{
+	font-family: champagne;
+}
+
+.texte
+{
+
+	font-family: linux;
+}
+/*------------------------------------------------*/
+/*footer*/
+/*------------------------------------------------*/
+footer 	/*Pied de page*/
+{
+	background-image: url("../media_site/asfalt.png");
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.footer_authentification/*, .footer_afficher_img*/ 	/*Pied de page spécial page authentification*/
+{
+	margin-top: 80px;
+}
+
+.row_footer 	/*position des zones dans le footer*/
+{
+	margin-right: 0px;
+}
+
+.col1_footer, .col3_footer 	/*Disposition des zones dans le footer*/
+{
+	padding-top: 6px;
+}
+
+.p_res 	/*Texte réseaux sociaux*/
+{
+	font-family: linux;
+	font-size: 15px;
+}
+
+#copyright 	/*Texte footer*/
+{
+	font-family: linux;
+	font-weight: bold;
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+
+.btn_footer1, .btn_res1_before 	/*Bouton 1*/
+{
+	margin-right: 6px;
+}
+
+.btn_footer2, .btn_res2_before 	/*Bouton 2*/
+{
+	margin-left: 6px;
+}
+
+.article
+{
+	margin-left: 300px;
+	margin-top: 44px;
+	margin-bottom: 44px;
+}
+
+.tailledebite
+{
+	width: 1000px;
+}
+
+#myCarousel
+{
+	padding-top: 71px;
+}
+
+.api_google
+{
+	
+}
